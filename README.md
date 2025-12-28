@@ -82,7 +82,7 @@ http://localhost:3000
 
 ---
 
-## 🌤 Weather API (Server-Side)
+Weather API (Server-Side)
 
 **Endpoint:**
 
