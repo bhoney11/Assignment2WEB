@@ -19,13 +19,13 @@ Project Structure
 backend2ass/
 │
 ├─ src/
-│   └─ server.js          # Main backend server
+│   └─ server.js         
 │
 ├─ public/
-│   ├─ index.html         # Frontend page
-│   └─ style.css          # Yellow & cute design
+│   ├─ index.html         
+│   └─ style.css          
 │
-├─ .env                   # Environment variables (API keys)
+├─ .env                   
 ├─ .gitignore
 ├─ package.json
 └─ README.md
