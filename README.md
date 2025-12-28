@@ -1,4 +1,4 @@
-# 🌼 Weather & Fun Facts Backend API
+Weather & Fun Facts Backend API
 
 This project is a **Node.js + Express backend application** that demonstrates server side API integration
 The server fetches real-time weather data and additional information from third-party APIs and serves a simple, user friendly frontend
